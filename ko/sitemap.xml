@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://filip.dimkovski.com/ko/ko/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url><url>
+    <loc>http://filip.dimkovski.com/ko/ko/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url><url>
     <loc>http://filip.dimkovski.com/ko/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
@@ -15,70 +21,16 @@
                 href="http://filip.dimkovski.com/ko/"
                 />
   </url><url>
-    <loc>http://filip.dimkovski.com/ko/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://filip.dimkovski.com/en/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://filip.dimkovski.com/ko/archive/"
-                />
-  </url><url>
-    <loc>http://filip.dimkovski.com/ko/about/</loc>
+    <loc>http://filip.dimkovski.com/ko/ko/about/</loc>
     <lastmod>2019-10-09T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://filip.dimkovski.com/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://filip.dimkovski.com/ko/about/"
-                />
   </url><url>
-    <loc>http://filip.dimkovski.com/ko/gallery/</loc>
+    <loc>http://filip.dimkovski.com/ko/ko/gallery/photo/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://filip.dimkovski.com/en/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://filip.dimkovski.com/ko/gallery/"
-                />
   </url><url>
-    <loc>http://filip.dimkovski.com/ko/gallery/photo/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://filip.dimkovski.com/en/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://filip.dimkovski.com/ko/gallery/photo/"
-                />
-  </url><url>
-    <loc>http://filip.dimkovski.com/ko/gallery/cartoon/</loc>
+    <loc>http://filip.dimkovski.com/ko/ko/gallery/cartoon/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://filip.dimkovski.com/en/gallery/cartoon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://filip.dimkovski.com/ko/gallery/cartoon/"
-                />
+  </url><url>
+    <loc>http://filip.dimkovski.com/ko/en/</loc>
   </url><url>
     <loc>http://filip.dimkovski.com/ko/categories/</loc>
     <xhtml:link
@@ -104,17 +56,7 @@
                 href="http://filip.dimkovski.com/ko/tags/index/"
                 />
   </url><url>
-    <loc>http://filip.dimkovski.com/ko/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://filip.dimkovski.com/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://filip.dimkovski.com/ko/posts/"
-                />
+    <loc>http://filip.dimkovski.com/ko/ko/posts/</loc>
   </url><url>
     <loc>http://filip.dimkovski.com/ko/series/</loc>
     <xhtml:link

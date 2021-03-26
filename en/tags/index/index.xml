@@ -11,9 +11,9 @@
     <description>Recent content in index on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
-    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <managingEditor>filip@dimkovski.com (Filip Dimkovski)</managingEditor>
+    <webMaster>filip@dimkovski.com (Filip Dimkovski)</webMaster>
+    <copyright>&amp;copy;{year}, Filip Dimkovski All Rights Reserved</copyright>
     
         <atom:link href="http://filip.dimkovski.com/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,13 +22,13 @@
       <item>
         <title>Posts</title>
         <link>http://filip.dimkovski.com/en/posts/</link>
-        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+        <author>filip@dimkovski.com (Filip Dimkovski)</author>
         
         <guid>http://filip.dimkovski.com/en/posts/</guid>
         <description></description>
         
-        <dc:creator>Hugo Authors</dc:creator>
+        <dc:creator>Filip Dimkovski</dc:creator>
         
         
         
